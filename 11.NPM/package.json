@@ -1,0 +1,16 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oneclick",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
